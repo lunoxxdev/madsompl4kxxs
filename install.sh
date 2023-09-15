@@ -117,7 +117,7 @@ if [ "" = "$PKG_OK" ]; then
   echo -e "[ ${tyblue}NOTES${NC} ] After rebooting"
   sleep 1
   echo -e "[ ${tyblue}NOTES${NC} ] Then run this script again"
-  echo -e "[ ${tyblue}NOTES${NC} ] Notes, Script Mod By ARH-PROJECT"
+  echo -e "[ ${tyblue}NOTES${NC} ] Notes, Script Mod By LunoxxImpostor"
   echo -e "[ ${tyblue}NOTES${NC} ] if you understand then tap enter now.."
   read
 else
@@ -352,7 +352,7 @@ fi
 curl -sS ifconfig.me > /etc/myipvps
 
 echo " "
-echo "=====================-[ AutoScript Arh-Project ]-===================="
+echo "=====================-[ AutoScript LunoxxImpostor ]-===================="
 echo ""
 echo "------------------------------------------------------------"
 echo ""
@@ -398,7 +398,7 @@ echo ""
 echo ""
 echo "------------------------------------------------------------"
 echo ""
-echo "===============-[ Script ARH-PROJECT  ]-==============="
+echo "===============-[ Script LunoxxImpostor  ]-==============="
 echo -e ""
 echo ""
 echo "" | tee -a log-install.txt
