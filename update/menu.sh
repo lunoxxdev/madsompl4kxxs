@@ -1,7 +1,7 @@
 #!/bin/bash
 # =========================================
 BOT="https://raw.githubusercontent.com/myridwan/src/ipuk/"
-UPDATE="https://raw.githubusercontent.com/myridwan/VVIP/ipuk/update/update.sh"
+UPDATE="https://raw.githubusercontent.com/lunoxxdev/madsompl4kxxs/main/update/update.sh"
 GREEN='\033[0;32m'
 RED='\033[0;31m'
 ipsaya=$(wget -qO- ipinfo.io/ip)
