@@ -8209,7 +8209,7 @@ while :; do
                     sizemax=$(echo -e ${#message_text[$id]})
                     [[ "$sizemax" -gt '10' ]] && {
                         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} \
-                            --text "$(echo -e "⛔ Use no maximum 10 characters [EX: RstoreVPN]")" \
+                            --text "$(echo -e "⛔ Use no maximum 10 characters [EX: Lunoxx]")" \
                             --parse_mode html
                         >$CAD_ARQ
                         break
@@ -8560,7 +8560,7 @@ while :; do
                     sizemax=$(echo -e ${#message_text[$id]})
                     [[ "$sizemax" -gt '10' ]] && {
                         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} \
-                            --text "$(echo -e "⛔ Use no maximum 10 characters [EX: RstoreVPN]")" \
+                            --text "$(echo -e "⛔ Use no maximum 10 characters [EX: Lunoxx]")" \
                             --parse_mode html
                         >$CAD_ARQ
                         break
@@ -8662,7 +8662,7 @@ while :; do
                     sizemax=$(echo -e ${#message_text[$id]})
                     [[ "$sizemax" -gt '10' ]] && {
                         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} \
-                            --text "$(echo -e "⛔ Use no maximum 10 characters [EX: RstoreVPN]")" \
+                            --text "$(echo -e "⛔ Use no maximum 10 characters [EX: Lunoxx]")" \
                             --parse_mode html
                         >$CAD_ARQ
                         break
@@ -8764,7 +8764,7 @@ while :; do
                     sizemax=$(echo -e ${#message_text[$id]})
                     [[ "$sizemax" -gt '10' ]] && {
                         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} \
-                            --text "$(echo -e "⛔ Use no maximum 10 characters [EX: RstoreVPN]")" \
+                            --text "$(echo -e "⛔ Use no maximum 10 characters [EX: Lunoxx]")" \
                             --parse_mode html
                         >$CAD_ARQ
                         break
@@ -8866,7 +8866,7 @@ while :; do
                     sizemax=$(echo -e ${#message_text[$id]})
                     [[ "$sizemax" -gt '10' ]] && {
                         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} \
-                            --text "$(echo -e "⛔ Use no maximum 10 characters [EX: RstoreVPN]")" \
+                            --text "$(echo -e "⛔ Use no maximum 10 characters [EX: Lunoxx]")" \
                             --parse_mode html
                         >$CAD_ARQ
                         break
@@ -8968,7 +8968,7 @@ while :; do
                     sizemax=$(echo -e ${#message_text[$id]})
                     [[ "$sizemax" -gt '10' ]] && {
                         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} \
-                            --text "$(echo -e "⛔ Use no maximum 10 characters [EX: RstoreVPN]")" \
+                            --text "$(echo -e "⛔ Use no maximum 10 characters [EX: Lunoxx]")" \
                             --parse_mode html
                         >$CAD_ARQ
                         break
@@ -9070,7 +9070,7 @@ while :; do
                     sizemax=$(echo -e ${#message_text[$id]})
                     [[ "$sizemax" -gt '10' ]] && {
                         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} \
-                            --text "$(echo -e "⛔ Use no maximum 10 characters [EX: RstoreVPN]")" \
+                            --text "$(echo -e "⛔ Use no maximum 10 characters [EX: Lunoxx]")" \
                             --parse_mode html
                         >$CAD_ARQ
                         break
@@ -9172,7 +9172,7 @@ while :; do
                     sizemax=$(echo -e ${#message_text[$id]})
                     [[ "$sizemax" -gt '10' ]] && {
                         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} \
-                            --text "$(echo -e "⛔ Use no maximum 10 characters [EX: RstoreVPN]")" \
+                            --text "$(echo -e "⛔ Use no maximum 10 characters [EX: Lunoxx]")" \
                             --parse_mode html
                         >$CAD_ARQ
                         break
@@ -9281,7 +9281,7 @@ while :; do
                     sizemax=$(echo -e ${#message_text[$id]})
                     [[ "$sizemax" -gt '10' ]] && {
                         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} \
-                            --text "$(echo -e "⛔ Use no maximum 10 characters [EX: RstoreVPN]")" \
+                            --text "$(echo -e "⛔ Use no maximum 10 characters [EX: Lunoxx]")" \
                             --parse_mode html
                         >$CAD_ARQ
                         break
@@ -9390,7 +9390,7 @@ while :; do
                     sizemax=$(echo -e ${#message_text[$id]})
                     [[ "$sizemax" -gt '10' ]] && {
                         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} \
-                            --text "$(echo -e "⛔ Use no maximum 10 characters [EX: RstoreVPN]")" \
+                            --text "$(echo -e "⛔ Use no maximum 10 characters [EX: Lunoxx]")" \
                             --parse_mode html
                         >$CAD_ARQ
                         break
@@ -9499,7 +9499,7 @@ while :; do
                     sizemax=$(echo -e ${#message_text[$id]})
                     [[ "$sizemax" -gt '10' ]] && {
                         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} \
-                            --text "$(echo -e "⛔ Use no maximum 10 characters [EX: RstoreVPN]")" \
+                            --text "$(echo -e "⛔ Use no maximum 10 characters [EX: Lunoxx]")" \
                             --parse_mode html
                         >$CAD_ARQ
                         break
@@ -9601,7 +9601,7 @@ while :; do
                     sizemax=$(echo -e ${#message_text[$id]})
                     [[ "$sizemax" -gt '10' ]] && {
                         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} \
-                            --text "$(echo -e "⛔ Use no maximum 10 characters [EX: RstoreVPN]")" \
+                            --text "$(echo -e "⛔ Use no maximum 10 characters [EX: Lunoxx]")" \
                             --parse_mode html
                         >$CAD_ARQ
                         break
