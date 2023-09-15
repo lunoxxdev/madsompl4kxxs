@@ -18,7 +18,7 @@ sleep 3
 #if [ "$res" = "Permission Accepted..." ]; then
 #green "Permission Accepted.."
 #else
-#red "Permission Denied!"
+#red "Tertolak mentah-mentah awkowaok"
 #exit 0
 #fi
 #echo -e "

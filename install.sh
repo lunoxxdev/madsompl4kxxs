@@ -46,7 +46,7 @@ PERMISSION () {
     if [ "$MYIP" = "$IZIN" ]; then
     Bloman
     else
-    res="Permission Denied!"
+    res="Tertolak mentah-mentah awkowaok"
     fi
     BURIQ
 }
@@ -170,7 +170,7 @@ exit 0
 elif [ "$res" = "Permission Accepted..." ]; then
 green "Permission Accepted!"
 else
-red "Permission Denied!"
+red "Tertolak mentah-mentah awkowaok"
 rm setup.sh > /dev/null 2>&1
 sleep 10
 exit 0

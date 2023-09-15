@@ -43,7 +43,7 @@ PERMISSION () {
     if [ "$MYIP" = "$IZIN" ]; then
     Bloman
     else
-    res="Permission Denied!"
+    res="Tertolak mentah-mentah awkowaok"
     fi
     BURIQ
 }
@@ -61,7 +61,7 @@ exit 0
 elif [ "$res" = "Permission Accepted..." ]; then
 echo -ne
 else
-red "Permission Denied!"
+red "Tertolak mentah-mentah awkowaok"
 exit 0
 fi
 
