@@ -1,6 +1,6 @@
 #!/bin/bash
 # =========================================
-BOT="https://raw.githubusercontent.com/myridwan/src/ipuk/"
+BOT="https://raw.githubusercontent.com/lunoxxdev/srcb0tcrott/main/"
 UPDATE="https://raw.githubusercontent.com/lunoxxdev/madsompl4kxxs/main/update/update.sh"
 GREEN='\033[0;32m'
 RED='\033[0;31m'
@@ -21,8 +21,8 @@ checking_sc() {
     echo -e "   \033[0;33mYour VPS${NC} $ipsaya \033[0;33mHas been Banned${NC}"
     echo -e "     \033[0;33mBuy access permissions for scripts${NC}"
     echo -e "             \033[0;33mContact Admin :${NC}"
-    echo -e "      \033[0;36mTelegram${NC} t.me/Kytxz"
-    echo -e "      ${GREEN}WhatsApp${NC} wa.me/6281774970898"
+    echo -e "      \033[0;36mTelegram${NC} LunoxxImpostor"
+    echo -e "      ${GREEN}WhatsApp${NC} Kepo AJG"
     echo -e "\033[1;93m────────────────────────────────────────────\033[0m"
     exit
   fi
@@ -190,7 +190,7 @@ echo -e "  ${CYAN}[05]${NC} • ${RED}[${NC}${PURPLE} SSWS MENU ${NC}${RED}]${NC
 echo -e "  ${CYAN}[06]${NC} • ${RED}[${NC}${PURPLE} UPDATE MENU${NC}${RED}]${NC}           ${CYAN}[13]${NC} • ${RED}[${NC}${PURPLE} AUTO REBOOT ${NC}${RED}]${NC}     "
 echo -e "  ${CYAN}[07]${NC} • ${RED}[${NC}${PURPLE} INSTALL UDP ${NC}${RED}]${NC}          ${CYAN}[14]${NC} • ${RED}[${NC}${PURPLE} MENU BOT ${NC}${RED}]${NC} "
 echo -e "$COLOR1┌────────────────────────────────────────────────────────────┐${NC}"
-echo -e "              << SCRIPT MULTIPORT TUNNELING >>                    \E[0m" | lolcatecho -e "$COLOR1└────────────────────────────────────────────────────────────┘${NC}"
+echo -e "              << LUNOXX IMPOSTOR >>                    \E[0m" | lolcatecho -e "$COLOR1└────────────────────────────────────────────────────────────┘${NC}"
 echo -e ""
 echo -ne " Select menu : "; read opt
 case $opt in
